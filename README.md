@@ -12,15 +12,15 @@
 
 # Portfolio
 
-Welcome to my portfolio! My name is Sébastien DABERT, and I am passionate about computer science.
+Welcome to my portfolio! My name is Owen EXIGA. I'm interested about computer sciences.
 
 
 
 ## About Me
 
-- 🏡 Based in Limoge and Poitiers, France
-- 👨‍🎓 I’m currently studying BUT Informatique
-- 🌱 I'm 18 year old 
+- 🏡 Based in Limoges and Poitiers, France
+- 👨‍🎓 I’m currently studying BUT Informatique in Limoges
+- 🌱 I'm 17 year old
 
 
 
@@ -34,16 +34,14 @@ Welcome to my portfolio! My name is Sébastien DABERT, and I am passionate about
 
 - Languages I am currently learning:
   
-  [![My Skills](https://skillicons.dev/icons?i=c,html,css,java,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,html,css,java,bash,r)](https://skillicons.dev)
 
 ## Tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,phpstorm,pycharm,clion,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,vscode)](https://skillicons.dev)
 
 ## Contact
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email : **sebastien.dabert@etu.unilim.fr** or **sebdab86@gmail.com**
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Student Email : **owen.exiga@etu.unilim.fr** or Personal Email : **exigaowen@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram : [Bessastien](https://www.instagram.com/bessastien/)
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) LinkedIn : [Sébastien DABERT](https://fr.linkedin.com/in/s%C3%A9bastien-dabert-0940b51b9)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) Instagram : [owen_exiga](https://www.instagram.com/owen_exiga/)
