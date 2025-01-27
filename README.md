@@ -12,7 +12,7 @@
 
 # Portfolio
 
-Welcome to my portfolio! My name is Owen EXIGA. I'm interested about computer sciences.
+Welcome to my portfolio! My name is Owen EXIGA. I'm fervent about computer sciences.
 
 
 
