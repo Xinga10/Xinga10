@@ -37,7 +37,7 @@ Welcome to my portfolio! My name is Owen EXIGA. I'm fervent about computer scien
   
   [![My Skills](https://skillicons.dev/icons?i=c,html,css,java,bash,r)](https://skillicons.dev)
 
-## Tools:
+## Tools
 
   [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,vscode)](https://skillicons.dev)
 
