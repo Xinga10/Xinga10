@@ -35,11 +35,11 @@ Welcome to my portfolio! My name is Owen EXIGA. I'm fervent about computer scien
 
 - Languages I am currently learning:
   
-  [![My Skills](https://skillicons.dev/icons?i=c,csharp,html,css,java,bash,r,sql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,docker,html,css,java,bash,r)](https://skillicons.dev)
 
 ## Tools
 
- [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,vscode,linux,eclipse,sql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=discord,github,debian,windows,vscode,linux,eclipse,git,gitlab)](https://skillicons.dev)
 
 ## Contacts
 
